@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\obj\Debug\LINQ.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\4семестр\LINQ-Task\LINQ\LINQ\obj\Debug\LINQ.pdb

@@ -1,0 +1,21 @@
+Client with shortest trainings duration: 1422
+Client with longest trainings duration: 4577
+Year with the longest amount of trainings durations: 2017
+
+Client ID - 1231, trainings duration - 15
+Client ID - 1244, trainings duration - 20
+Client ID - 1422, trainings duration - 5
+Client ID - 2342, trainings duration - 10
+Client ID - 2532, trainings duration - 20
+Client ID - 2611, trainings duration - 15
+Client ID - 2754, trainings duration - 10
+Client ID - 4577, trainings duration - 30
+
+Client ID - 1231, amount of months - 6
+Client ID - 1244, amount of months - 8
+Client ID - 1422, amount of months - 1
+Client ID - 2342, amount of months - 3
+Client ID - 2532, amount of months - 3
+Client ID - 2611, amount of months - 6
+Client ID - 2754, amount of months - 2
+Client ID - 4577, amount of months - 5
